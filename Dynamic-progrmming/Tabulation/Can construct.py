@@ -8,6 +8,7 @@ def can_construct(target, word_bank):  # time : O(m square n), space: O(m)
                 if target[i:i + len(word)] == word:
                     table[i + len(word)] = True
 
+
     return table[len(target)]
 
 
