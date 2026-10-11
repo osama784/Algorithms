@@ -16,7 +16,7 @@ Topics covered:
 - **Greedy algorithms:** activity selection, gas station, meeting rooms, and more
 - **Pattern searching**
 
-There is also a `concepts/` folder with reference diagrams (PNG), IDE project files (`.idea/`), and a few sample data files (`nyc_weather.csv`, `poem.txt`).
+There is also a `concepts/` folder with reference diagrams (PNG); IDE project files (`.idea/`) live at the repo root, and a few sample data files (`nyc_weather.csv`, `poem.txt`) are inside the `Algorithms & Data (CodeBasics)` folder.
 
 ## Running a script
 
